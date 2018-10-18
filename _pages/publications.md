@@ -9,8 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+<div class="col-md-8">
+				<h3>Publications</h3>      		
+			<script src="https://bibbase.org/show?bib=https://dvij.github.io/indigo/ref.bib&jsonp=1&theme=simple"></script>			
+</div>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
