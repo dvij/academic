@@ -16,9 +16,10 @@ author_profile: true
 			<script src="https://bibbase.org/show?bib=https://dvij.github.io/academic/ref.bib&jsonp=1&theme=simple&filter=best:1"></script>			
 </div>
 Hiolo
-<button onclick="javascript:toggleDiv('refFullPub')">  Full list of publications </button>
+<button onclick="toggleDiv('refFullPub')">  Full list of publications </button>
 
 <div id="refFullPub" style="display:none;">
+		<h3> Selected Publications </h3>
 			<script src="https://bibbase.org/show?bib=https://dvij.github.io/academic/ref.bib&jsonp=1&theme=simple"></script>			
 </div> 
 
