@@ -21,5 +21,5 @@ author_profile: true
 <div id="refFullPub" style="display:none;"> -->
 	<h3> All Publications </h3>
 			<script src="https://bibbase.org/show?bib=https://dvij.github.io/academic/ref.bib&jsonp=1&theme=simple"></script>			
-</div>
+<!-- </div> -->
 
