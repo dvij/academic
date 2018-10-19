@@ -15,7 +15,7 @@ author_profile: true
 	<h3> Selected Publications </h3>
 			<script src="https://bibbase.org/show?bib=https://dvij.github.io/academic/ref.bib&jsonp=1&theme=simple&filter=best:1"></script>			
 </div>
-Hilo
+Hiolo
 <button onclick="javascript:toggleDiv('refFullPub')">  Full list of publications </button>
 
 <div id="refFullPub" style="display:none;">
