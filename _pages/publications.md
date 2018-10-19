@@ -9,7 +9,16 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-
+<script language="JavaScript" type="text/javascript">
+<!--
+function toggleDiv(element){
+ if(document.getElementById(element).style.display == 'none')
+  document.getElementById(element).style.display = 'block';
+ else
+       document.getElementById(element).style.display = 'none';
+}
+//-->
+</script>
 
 <div class="col-md-8">
 	<h3> Selected Publications </h3>
