@@ -24,8 +24,8 @@ function toggleDiv(element){
 	<h3> Selected Publications </h3>
 			<script src="https://bibbase.org/show?bib=https://dvij.github.io/academic/ref.bib&jsonp=1&theme=simple&filter=best:1"></script>			
 </div>
-
-<a data-toggle="collapse" href="javascript:toggleDiv('refFullPub')">  Full list of publications </a>
+Hilo
+<a data-toggle="collapse" href="toggleDiv('refFullPub')">  Full list of publications </a>
 
 <div id="refFullPub" style="display:none;">
 			<script src="https://bibbase.org/show?bib=https://dvij.github.io/academic/ref.bib&jsonp=1&theme=simple"></script>			
