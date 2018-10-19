@@ -9,12 +9,25 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+<script language="JavaScript" type="text/javascript">
+<!--
+function toggleDiv(element){
+ if(document.getElementById(element).style.display == 'none')
+  document.getElementById(element).style.display = 'block';
+ else
+       document.getElementById(element).style.display = 'none';
+}
+//-->
+</script>
+
 <div class="col-md-8">
 	<h3> Selected Publications </h3>
 			<script src="https://bibbase.org/show?bib=https://dvij.github.io/academic/ref.bib&jsonp=1&theme=simple&filter=best:1"></script>			
 </div>
 
-<div class="col-md-8">
+<!-- <a data-toggle="collapse" href="javascript:toggleDiv('refFullPub')">  Full list of publications </a>
+
+<div id="refFullPub" style="display:none;"> -->
 	<h3> All Publications </h3>
 			<script src="https://bibbase.org/show?bib=https://dvij.github.io/academic/ref.bib&jsonp=1&theme=simple"></script>			
 </div>
