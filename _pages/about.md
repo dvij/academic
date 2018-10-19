@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am a research scientist at <a href="http://deepmind.com">DeepMind</a> working on building robust and verifiable AI systems. A good summary of my recent research can be found in <a href="{{ site.url }}/assets/verified_robustness_greece.pdf"> this talk</a>. </p>
+<p>I am a research scientist at <a href="http://deepmind.com">DeepMind</a> working on building robust and verifiable AI systems. A good summary of my recent research can be found in <a href="{{ site.url }}/assets/verified_robustness_uai.pdf"> this talk</a>. </p>
 
 <p> More generally, I am interested in building principled algorithmic techniques to reason about the behavior of complex autonomous systems. In the past, I have worked on ensuring that electric power grids remain well-behaved despite the presence of large amounts of fluctuating renewable generation sources like solar and wind energy. </p>
 
