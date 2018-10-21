@@ -13,7 +13,7 @@ author_profile: true
 
 <div class="col-md-8">
 	<h3> Selected Publications </h3>
-			<script src="https://bibbase.org/show?bib=https://dvij.github.io/academic/ref.bib&jsonp=1&theme=simple&filter=best:1&group0="></script>			
+			<script src="https://bibbase.org/show?bib=https://dvij.github.io/academic/ref.bib&jsonp=1&theme=simple&filter=best:1&group0=best"></script>			
 </div>
 
 <div id="refFullPub">
